@@ -28,7 +28,7 @@
 | :--- | :--- | :--- |
 | **[Cash Card Service](https://github.com/cgmarquess/cash-card-service)** | `Spring Boot 3` `Junit 5` `Docker` `Spring Security` `Spring Data`| Full REST API with AuthN/AuthZ and TDD methodology. |
 | **[AIM Client (Reverse Eng.)](https://github.com/cgmarquess/aim-client)** | `Java Sockets` `TCP/IP` `JUnit 5` | Custom implementation of TOC2 protocol via Raw Sockets. |
-| **[2D Physics Engine](https://github.com/cgmarquess/Asteroid-Game)** | `JavaFX` `Vector Math` `Game Loop` | Built from scratch physics engine & collision detection. |
+| **[2D Game Engine](https://github.com/cgmarquess/Asteroid-Game)** | `JavaFX` `Vector Math` `Game Loop` | Built from scratch physics engine & collision detection. |
 
 ---
 <div align="center">
