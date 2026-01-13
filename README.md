@@ -19,4 +19,4 @@ Currently building robust backend systems with **Java 21 & Spring Boot** and exp
 * 🚀 **[2D Physics Engine](https://github.com/cgmarquess/Asteroid-Game)**: A custom game engine featuring vector-based physics and collision detection.
 
 ---
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/cgmarquess/)
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/cgmarquess/?locale=en_US)
